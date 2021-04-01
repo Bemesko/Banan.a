@@ -1,0 +1,74 @@
+body {
+  background-color: #001d3d;
+}
+
+.BM-header {
+  background-color: #ffc300;
+}
+
+.menu a:hover {
+  color: #ffd60a !important;
+}
+
+.BM-header-link-text {
+  color: #001d3d !important;
+}
+
+.logo {
+  width: 80px;
+}
+
+header {
+  margin-bottom: 3em;
+}
+
+.carousel-caption {
+  color: #0065c3;
+}
+
+.jumbotron {
+  background-color: #ffd60a;
+}
+
+.BM-service-title {
+  color: #001d3d;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.BM-services {
+  background-color: #ffd60a;
+  margin-bottom: 0rem;
+  border-radius: 0rem;
+}
+
+.BM-testimony-title {
+  color: #001d3d;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.BM-testimonies {
+  background-color: #ffc300;
+  margin-bottom: 0rem;
+  border-radius: 0rem;
+}
+
+.BM-testimony-desc {
+  margin-bottom: 40px;
+  color: #0065c3;
+}
+
+.card {
+  background-color: #003566;
+  color: #ffd60a;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.tamanho-icone {
+  font-size: 68px;
+  color: #ffd60a;
+}
