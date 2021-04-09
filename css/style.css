@@ -72,3 +72,14 @@ header {
   font-size: 68px;
   color: #ffd60a;
 }
+
+.BM-footer {
+  background-color: #003566;
+  margin-bottom: 0rem;
+  border-radius: 0rem;
+  color: #ffd60a;
+}
+
+.BM-footer-link:hover {
+  color: #ffc300;
+}
